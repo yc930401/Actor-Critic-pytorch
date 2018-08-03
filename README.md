@@ -22,9 +22,9 @@ In this post, I implement a DQN to Cartpole game: </br>
 
 ## Methodology
 
-1. Get data from gym, and preprocess the state using raw images
-2. Define a DQN network, experience-replay memory, and a function to choose action based on exploration threshold
-3. Play Cartpole game, save the experiences and train the network with data from memory
+1. Define a Actor network and a Critic Network
+2. Get data (state, next_state, reward, done signals) from gym
+3. Play Cartpole game and calculate rewards for each step at the end of one game, train the two networks
 4. Save the model
 
 

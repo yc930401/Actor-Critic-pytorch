@@ -33,3 +33,4 @@ In this post, I implement a DQN to Cartpole game: </br>
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-2-policy-gradient-softmax2/ </br>
 https://github.com/higgsfield/RL-Adventure-2/blob/master/1.actor-critic.ipynb </br>
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-2-policy-gradient-softmax2/ </br>
+https://arxiv.org/pdf/1509.02971.pdf </br>
